@@ -1,0 +1,15 @@
+{
+    "utilizatori": [
+      {
+        "nume_utilizator": "admin",
+        "parola": "admin123",
+        "rol": "admin"
+      },
+      {
+        "nume_utilizator": "user",
+        "parola": "user123",
+        "rol": "user"
+      }
+    ]
+  }
+  
